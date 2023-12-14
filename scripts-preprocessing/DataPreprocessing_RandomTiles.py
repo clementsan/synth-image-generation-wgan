@@ -19,7 +19,7 @@ CSV_InputFile = './Database_Query_2018.csv'
 CSV_OutputFile = './Dataset_GAN_TargetClass.csv'
 
 # Warning: full path needed
-Database_Dir = '/mnt/database_SEM/2018/'
+Database_Dir = '/path_database_SEM/2018/'
 DataDir = '~/Project_SEM/Project_GAN/data/'
 
 # Note: random tile creation
